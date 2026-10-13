@@ -18,8 +18,8 @@ Built with **Jekyll + GitHub Pages**, and enhanced with **Progressive Web App (P
 ## 📦 Features
 
 - ✈️ Pilot logbook (Markdown-based)
-- 🛩 Aircraft notes (`/airplanes`)
-- 🛫 Airport information (`/airports`)
+- 🛩 Airplanes notes
+- 🛫 Airport notes
 - 📱 Progressive Web App (installable)
 - 🌙 Dark-themed UI (Modernist theme)
 - ⚡ Fast static site via GitHub Pages
