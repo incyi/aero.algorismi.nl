@@ -15,7 +15,7 @@ UTC Time :
 AMS Time : <span id="ams-clock"></span>    
 </p>
 
-## 🔗 links
+## 🔗 Links
 [VFR chart by LVNL](https://vfrchart.lvnl.nl)  
 [eAIP by LVNL](https://eaip.lvnl.nl)  
 [Supplementen van Bas Vrijhof](https://www.pplboeken.nl/Webwinkel-Page-2297333/Aanvullingen-op-de-boeken.html)  
