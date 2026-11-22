@@ -3,7 +3,7 @@ layout: default
 title:  "Ground station"
 ---
 
-## Building my own ground station
+# Building my own ground station
 
 {% include menu.html %}
 
